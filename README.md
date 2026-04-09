@@ -1,8 +1,8 @@
-# XenoGotchi
+# XenoGotchi 
+
+> *A work in progress project*
 
 **Raise your Xenomorph** — a web-based virtual pet (Tamagotchi) where you nurture a Xenomorph through its entire lifecycle, from Ovomorph to Queen.
-
-> *"In space, no one can hear it purr."*
 
 ## What is this?
 
